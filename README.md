@@ -1,4 +1,4 @@
-# Store
+# rails-store-getting-started
 
 Aplicación de práctica construida siguiendo la guía oficial
 [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html).
